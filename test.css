@@ -1,0 +1,16 @@
+.highlight{
+
+background-color:yellow;
+
+}
+
+#main{
+
+	position:absolute;
+	margin:5px;
+	top:50px;
+	left:50px;
+	width:200px;
+	height:200px;
+	border:1px solid Black;
+}
